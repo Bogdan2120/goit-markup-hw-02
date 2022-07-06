@@ -103,7 +103,8 @@ body {
   list-style: none;
 }
 
-.skill-tetle {
+.skill-title {
+  font-size: 14px;
   font-weight: 700;
   line-height: 1.14;
   letter-spacing: 0.03em;
@@ -112,7 +113,6 @@ body {
 }
 
 .skill-text {
-  font-weight: 400;
   line-height: 1.71;
   letter-spacing: 0.03em;
 }
@@ -132,6 +132,8 @@ body {
 }
 
 .command-item-name {
+  font-size: 16px;
+  line-height: 1.19;
   font-weight: 500;
   color: var(--text-color-header);
 }
@@ -143,6 +145,7 @@ body {
 }
 
 .filter-button {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -195,6 +198,7 @@ body {
 .address {
   line-height: 1.71;
   letter-spacing: 0.03em;
+  font-style: normal;
   color: #ffffff;
 }
 
